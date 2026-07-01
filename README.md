@@ -39,7 +39,7 @@ MyPetDiary は、より楽しく、より繋がりを感じられるアプリを
   登録機能がある一方で消去機能がない問題点があるため、今後、実装します
 
 ##### ポートフォリオ用動画と仕様書のURL
-- https://drive.google.com/drive/folders/1-9cUjuodr7-SSXXFR193QYegh84ogpZZ?usp=shari ng
+- https://drive.google.com/drive/folders/1-9cUjuodr7-SSXXFR193QYegh84ogpZZ?usp=shari
 
 ---
 
