@@ -38,13 +38,8 @@ MyPetDiary は、より楽しく、より繋がりを感じられるアプリを
 - アカウント消去機能
   登録機能がある一方で消去機能がない問題点があるため、今後、実装します
 
-##### チュートリアル動画URL
-- 説明用動画URL：【 https://drive.google.com/file/d/1prbPqUK3aYlNcUHshHjUMNCiLRZxzhEO/ 】
-
----
-
-###### ポートフォリオ仕様書URL
-- 仕様書URL： https://www.notion.so/34bbabb785ac801dab21d8ac8788b95a?source=copy_link
+##### ポートフォリオ用動画と仕様書のURL
+- https://drive.google.com/drive/folders/1-9cUjuodr7-SSXXFR193QYegh84ogpZZ?usp=shari ng
 
 ---
 
